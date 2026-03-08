@@ -1,4 +1,4 @@
-### Créer d un composant Compteur simple avec useState:
+### Création d un composant Compteur simple avec useState:
 <img width="837" height="465" alt="Screenshot 2026-03-08 134931" src="https://github.com/user-attachments/assets/3d853757-4bd2-4145-8af3-bb2a9c60086b" />
 <img width="835" height="422" alt="Screenshot 2026-03-08 134945" src="https://github.com/user-attachments/assets/5e2e3fda-b4f8-46e6-acbb-e916b69bd0b0" />
 <img width="652" height="385" alt="Screenshot 2026-03-08 135013" src="https://github.com/user-attachments/assets/605639d5-b906-41b2-b69b-a87696862ccd" />
